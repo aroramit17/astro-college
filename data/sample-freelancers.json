@@ -1,0 +1,41 @@
+[
+  {
+    "id": "dev-001",
+    "name": "Alex Carter",
+    "title": "Senior React and Node.js Engineer",
+    "overview": "Built SaaS dashboards, API integrations, and admin portals for startup clients.",
+    "skills": ["React", "Node.js", "TypeScript", "Next.js", "PostgreSQL"],
+    "hourlyRate": 65,
+    "jobSuccess": 97,
+    "totalEarnings": 120000,
+    "hoursBilled": 4200,
+    "country": "United States",
+    "profileUrl": "https://www.upwork.com/freelancers/~example001"
+  },
+  {
+    "id": "dev-002",
+    "name": "Priya Sharma",
+    "title": "Full-Stack JavaScript Developer",
+    "overview": "Product-minded developer working on APIs, dashboards, and startup MVPs.",
+    "skills": ["React", "Node.js", "MongoDB", "Express"],
+    "hourlyRate": 55,
+    "jobSuccess": 94,
+    "totalEarnings": 56000,
+    "hoursBilled": 1600,
+    "country": "India",
+    "profileUrl": "https://www.upwork.com/freelancers/~example002"
+  },
+  {
+    "id": "dev-003",
+    "name": "Marta Gomez",
+    "title": "Frontend Engineer",
+    "overview": "Focused on landing pages and UI builds.",
+    "skills": ["React", "Figma", "CSS"],
+    "hourlyRate": 45,
+    "jobSuccess": 88,
+    "totalEarnings": 15000,
+    "hoursBilled": 500,
+    "country": "Spain",
+    "profileUrl": "https://www.upwork.com/freelancers/~example003"
+  }
+]

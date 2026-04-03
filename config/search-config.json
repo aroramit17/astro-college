@@ -1,0 +1,11 @@
+{
+  "requiredSkills": ["React", "Node.js"],
+  "preferredSkills": ["TypeScript", "Next.js", "PostgreSQL"],
+  "keywords": ["saas", "api", "dashboard", "startup"],
+  "excludedCountries": [],
+  "maxHourlyRate": 80,
+  "minJobSuccess": 90,
+  "minTotalEarnings": 10000,
+  "minHoursBilled": 300,
+  "fitScoreThreshold": 70
+}

@@ -1,0 +1,19 @@
+{
+  "name": "upworks-scraper",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Freelancer qualification pipeline with Google Drive exports.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.mjs",
+    "demo": "node src/index.mjs --source=json --input=./data/sample-freelancers.json",
+    "check": "node --check src/index.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "googleapis": "^144.0.0"
+  }
+}

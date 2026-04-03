@@ -1,0 +1,5 @@
+id,name,title,overview,skills,hourlyRate,jobSuccess,totalEarnings,hoursBilled,country,profileUrl
+dev-001,Alex Carter,Senior React and Node.js Engineer,"Built SaaS dashboards, API integrations, and admin portals for startup clients.",React|Node.js|TypeScript|Next.js|PostgreSQL,65,97,120000,4200,United States,https://www.upwork.com/freelancers/~example001
+dev-002,Priya Sharma,Full-Stack JavaScript Developer,"Product-minded developer working on APIs, dashboards, and startup MVPs.",React|Node.js|MongoDB|Express,55,94,56000,1600,India,https://www.upwork.com/freelancers/~example002
+dev-003,Marta Gomez,Frontend Engineer,"Focused on landing pages and UI builds.",React|Figma|CSS,45,88,15000,500,Spain,https://www.upwork.com/freelancers/~example003
+dev-004,Daniel Reed,Senior Full-Stack SaaS Builder,"Led startup product work across admin dashboards, APIs, and analytics tools.",React|Node.js|Next.js|TypeScript|GraphQL,72,98,210000,5300,Canada,https://www.upwork.com/freelancers/~example004
