@@ -1,5 +1,8 @@
 node_modules
 site/node_modules
 site/dist
+site/*.tsbuildinfo
+site/vite.config.js
+site/vite.config.d.ts
 .env
 output
